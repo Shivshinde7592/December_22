@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="2" failed="0" ignored="1" total="7" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="40031" started-at="2023-02-16T09:52:57 IST" finished-at="2023-02-16T09:53:37 IST">
+    <groups>
+    </groups>
+    <test name="chromeTest" duration-ms="40031" started-at="2023-02-16T09:52:57 IST" finished-at="2023-02-16T09:53:37 IST">
+      <class name="tests.LoginTest">
+        <test-method status="PASS" signature="beforeTest(java.lang.String)[pri:0, instance:tests.LoginTest@4bb4de6a]" name="beforeTest" is-config="true" duration-ms="8" started-at="2023-02-16T09:52:57 IST" finished-at="2023-02-16T09:52:57 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[SIT]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeMethod(org.testng.ITestResult)[pri:0, instance:tests.LoginTest@4bb4de6a]" name="beforeMethod" is-config="true" duration-ms="9348" started-at="2023-02-16T09:52:57 IST" finished-at="2023-02-16T09:53:07 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=LoginTest.invalidLogin()[pri:0, instance:tests.LoginTest@4bb4de6a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="invalidLogin()[pri:0, instance:tests.LoginTest@4bb4de6a]" name="invalidLogin" duration-ms="2300" started-at="2023-02-16T09:53:07 IST" finished-at="2023-02-16T09:53:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidLogin -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:tests.LoginTest@4bb4de6a]" name="afterMethod" is-config="true" duration-ms="690" started-at="2023-02-16T09:53:09 IST" finished-at="2023-02-16T09:53:10 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=invalidLogin status=SUCCESS method=LoginTest.invalidLogin()[pri:0, instance:tests.LoginTest@4bb4de6a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(org.testng.ITestResult)[pri:0, instance:tests.LoginTest@4bb4de6a]" name="beforeMethod" is-config="true" duration-ms="5217" started-at="2023-02-16T09:53:10 IST" finished-at="2023-02-16T09:53:15 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=LoginTest.loginTest()[pri:0, instance:tests.LoginTest@4bb4de6a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:tests.LoginTest@4bb4de6a]" name="loginTest" duration-ms="2037" started-at="2023-02-16T09:53:15 IST" finished-at="2023-02-16T09:53:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:tests.LoginTest@4bb4de6a]" name="afterMethod" is-config="true" duration-ms="652" started-at="2023-02-16T09:53:17 IST" finished-at="2023-02-16T09:53:17 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginTest status=SUCCESS method=LoginTest.loginTest()[pri:0, instance:tests.LoginTest@4bb4de6a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(org.testng.ITestResult)[pri:0, instance:tests.LoginTest@4bb4de6a]" name="beforeMethod" is-config="true" duration-ms="5807" started-at="2023-02-16T09:53:17 IST" finished-at="2023-02-16T09:53:23 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=LoginTest.redirectToResetPasswordPageLinkPresent()[pri:0, instance:tests.LoginTest@4bb4de6a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="redirectToResetPasswordPageLinkPresent()[pri:0, instance:tests.LoginTest@4bb4de6a]" name="redirectToResetPasswordPageLinkPresent" duration-ms="17" started-at="2023-02-16T09:53:23 IST" finished-at="2023-02-16T09:53:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- redirectToResetPasswordPageLinkPresent -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:tests.LoginTest@4bb4de6a]" name="afterMethod" is-config="true" duration-ms="668" started-at="2023-02-16T09:53:23 IST" finished-at="2023-02-16T09:53:24 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=redirectToResetPasswordPageLinkPresent status=SUCCESS method=LoginTest.redirectToResetPasswordPageLinkPresent()[pri:0, instance:tests.LoginTest@4bb4de6a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(org.testng.ITestResult)[pri:0, instance:tests.LoginTest@4bb4de6a]" name="beforeMethod" is-config="true" duration-ms="11384" started-at="2023-02-16T09:53:24 IST" finished-at="2023-02-16T09:53:35 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=LoginTest.navigateToResetPassword()[pri:0, instance:tests.LoginTest@4bb4de6a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="navigateToResetPassword()[pri:0, instance:tests.LoginTest@4bb4de6a]" name="navigateToResetPassword" duration-ms="1126" started-at="2023-02-16T09:53:35 IST" depends-on-methods="tests.LoginTest.redirectToResetPasswordPageLinkPresent" finished-at="2023-02-16T09:53:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToResetPassword -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:tests.LoginTest@4bb4de6a]" name="afterMethod" is-config="true" duration-ms="717" started-at="2023-02-16T09:53:37 IST" finished-at="2023-02-16T09:53:37 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=navigateToResetPassword status=SUCCESS method=LoginTest.navigateToResetPassword()[pri:0, instance:tests.LoginTest@4bb4de6a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- tests.LoginTest -->
+      <class name="tests.HomeTest">
+        <test-method status="FAIL" signature="beforeMethod(org.testng.ITestResult)[pri:0, instance:tests.HomeTest@8b87145]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2023-02-16T09:53:24 IST" finished-at="2023-02-16T09:53:24 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=HomeTest.verifyAdminButtonNavigatesToAdminPage()[pri:0, instance:tests.HomeTest@8b87145] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+at testbase.TestBase.beforeMethod(TestBase.java:53)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:62)
+at org.testng.internal.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:385)
+at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:321)
+at org.testng.internal.TestInvoker.runConfigMethods(TestInvoker.java:700)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:527)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.util.ArrayList.forEach(Unknown Source)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.access$000(SuiteRunner.java:28)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:418)
+at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64)
+at java.util.concurrent.FutureTask.run(Unknown Source)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+at java.lang.Thread.run(Unknown Source)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="SKIP" signature="verifyAdminButtonNavigatesToAdminPage()[pri:0, instance:tests.HomeTest@8b87145]" name="verifyAdminButtonNavigatesToAdminPage" duration-ms="0" started-at="2023-02-16T09:53:24 IST" finished-at="2023-02-16T09:53:24 IST">
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+at testbase.TestBase.beforeMethod(TestBase.java:53)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:62)
+at org.testng.internal.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:385)
+at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:321)
+at org.testng.internal.TestInvoker.runConfigMethods(TestInvoker.java:700)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:527)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.util.ArrayList.forEach(Unknown Source)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.access$000(SuiteRunner.java:28)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:418)
+at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64)
+at java.util.concurrent.FutureTask.run(Unknown Source)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+at java.lang.Thread.run(Unknown Source)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAdminButtonNavigatesToAdminPage -->
+        <test-method status="SKIP" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:tests.HomeTest@8b87145]" name="afterMethod" is-config="true" duration-ms="-1676521404502" started-at="2023-02-16T09:53:24 IST" finished-at="1970-01-01T05:30:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="SKIP" signature="beforeMethod(org.testng.ITestResult)[pri:0, instance:tests.HomeTest@8b87145]" name="beforeMethod" is-config="true" duration-ms="-1676521404503" started-at="2023-02-16T09:53:24 IST" finished-at="1970-01-01T05:30:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="SKIP" signature="verifyLinks()[pri:0, instance:tests.HomeTest@8b87145]" name="verifyLinks" duration-ms="0" started-at="2023-02-16T09:53:24 IST" finished-at="2023-02-16T09:53:24 IST">
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+at testbase.TestBase.beforeMethod(TestBase.java:53)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:62)
+at org.testng.internal.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:385)
+at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:321)
+at org.testng.internal.TestInvoker.runConfigMethods(TestInvoker.java:700)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:527)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.util.ArrayList.forEach(Unknown Source)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.access$000(SuiteRunner.java:28)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:418)
+at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64)
+at java.util.concurrent.FutureTask.run(Unknown Source)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+at java.lang.Thread.run(Unknown Source)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLinks -->
+        <test-method status="SKIP" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:tests.HomeTest@8b87145]" name="afterMethod" is-config="true" duration-ms="-1676521404505" started-at="2023-02-16T09:53:24 IST" finished-at="1970-01-01T05:30:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- tests.HomeTest -->
+    </test> <!-- chromeTest -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 166.685 s <<< FAILURE! - in TestSuite
+invalidLogin(tests.LoginTest)  Time elapsed: 2.314 s  <<< FAILURE!
+java.lang.AssertionError: expected [Invalid credentials1] but found [Invalid credentials]
+	at tests.LoginTest.invalidLogin(LoginTest.java:42)
+
+loginTest(tests.LoginTest)  Time elapsed: 2.148 s  <<< FAILURE!
+java.lang.AssertionError: expected [Yamini Kondapalli11] but found [Dumbosam Collingsmohan]
+	at tests.LoginTest.loginTest(LoginTest.java:29)
+

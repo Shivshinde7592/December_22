@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="2" guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="tests">
+  <listeners>
+    <listener class-name="listener.TestNGListener"/>
+    <listener class-name="listener.ExtendReportListener"/>
+  </listeners>
+  <test thread-count="2" name="chromeTest(failed)" parallel="tests">
+    <parameter name="env" value="SIT"/>
+    <classes>
+      <class name="tests.HomeTest">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="afterMethod"/>
+          <include name="verifyAdminButtonNavigatesToAdminPage"/>
+          <include name="verifyLinks"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- tests.HomeTest -->
+    </classes>
+  </test> <!-- chromeTest(failed) -->
+</suite> <!-- Failed suite [Suite] -->

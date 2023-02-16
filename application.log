@@ -1,0 +1,277 @@
+2023-02-06 16:39:35,771  INFO [main] TestBase:52 - ---------------------------------Execution started for Testcase verifyAdminButtonNavigatesToAdminPage---------------------
+2023-02-06 16:39:35,774  INFO [main] DriverFactory:22 - inside init_driver, browser :Edge
+2023-02-06 16:40:05,796  INFO [main] TestBase:52 - ---------------------------------Execution started for Testcase verifyLinks---------------------
+2023-02-06 16:40:05,797  INFO [main] DriverFactory:22 - inside init_driver, browser :Edge
+2023-02-06 16:41:01,375  INFO [main] ElementUtils:82 - Inside doclick Method
+2023-02-06 16:41:01,376  INFO [main] ElementUtils:83 - Locator :By.name: username
+2023-02-06 16:41:01,516  INFO [main] ElementUtils:89 - Text Entered successfully
+2023-02-06 16:41:01,517  INFO [main] ElementUtils:82 - Inside doclick Method
+2023-02-06 16:41:01,517  INFO [main] ElementUtils:83 - Locator :By.name: password
+2023-02-06 16:41:01,693  INFO [main] ElementUtils:89 - Text Entered successfully
+2023-02-06 16:41:01,693  INFO [main] ElementUtils:24 - Inside doclick Method
+2023-02-06 16:41:01,694  INFO [main] ElementUtils:25 - Locator :By.className: orangehrm-login-button
+2023-02-06 16:41:01,807  INFO [main] ElementUtils:31 - click successful
+2023-02-06 16:41:03,874  INFO [main] ElementUtils:110 - Element is Present within 15
+2023-02-06 16:41:45,368  INFO [main] TestBase:52 - ---------------------------------Execution started for Testcase verifyAdminButtonNavigatesToAdminPage---------------------
+2023-02-06 16:41:45,370  INFO [main] DriverFactory:22 - inside init_driver, browser :chrome
+2023-02-06 16:41:48,639  INFO [main] DriverFactory:27 - Chrome browser initialized
+2023-02-06 16:42:13,163  INFO [main] TestBase:52 - ---------------------------------Execution started for Testcase verifyLinks---------------------
+2023-02-06 16:42:13,164  INFO [main] DriverFactory:22 - inside init_driver, browser :chrome
+2023-02-06 16:42:14,366  INFO [main] DriverFactory:27 - Chrome browser initialized
+2023-02-06 16:42:36,980  INFO [main] ElementUtils:82 - Inside doclick Method
+2023-02-06 16:42:36,981  INFO [main] ElementUtils:83 - Locator :By.name: username
+2023-02-06 16:42:37,132  INFO [main] ElementUtils:89 - Text Entered successfully
+2023-02-06 16:42:37,135  INFO [main] ElementUtils:82 - Inside doclick Method
+2023-02-06 16:42:37,136  INFO [main] ElementUtils:83 - Locator :By.name: password
+2023-02-06 16:42:37,264  INFO [main] ElementUtils:89 - Text Entered successfully
+2023-02-06 16:42:37,264  INFO [main] ElementUtils:24 - Inside doclick Method
+2023-02-06 16:42:37,265  INFO [main] ElementUtils:25 - Locator :By.className: orangehrm-login-button
+2023-02-06 16:42:38,500  INFO [main] ElementUtils:31 - click successful
+2023-02-06 16:42:39,075  INFO [main] ElementUtils:110 - Element is Present within 15
+2023-02-06 16:50:58,739  INFO [main] TestBase:52 - ---------------------------------Execution started for Testcase verifyAdminButtonNavigatesToAdminPage---------------------
+2023-02-06 16:50:58,741  INFO [main] DriverFactory:22 - inside init_driver, browser :chrome
+2023-02-06 16:51:00,500  INFO [main] DriverFactory:27 - Chrome browser initialized
+2023-02-06 16:51:31,003  INFO [main] TestBase:52 - ---------------------------------Execution started for Testcase verifyLinks---------------------
+2023-02-06 16:51:31,004  INFO [main] DriverFactory:22 - inside init_driver, browser :chrome
+2023-02-06 16:51:32,179  INFO [main] DriverFactory:27 - Chrome browser initialized
+2023-02-06 16:52:15,882  INFO [main] ElementUtils:82 - Inside doclick Method
+2023-02-06 16:52:15,883  INFO [main] ElementUtils:83 - Locator :By.name: username
+2023-02-06 16:52:16,017  INFO [main] ElementUtils:89 - Text Entered successfully
+2023-02-06 16:52:16,017  INFO [main] ElementUtils:82 - Inside doclick Method
+2023-02-06 16:52:16,017  INFO [main] ElementUtils:83 - Locator :By.name: password
+2023-02-06 16:52:16,181  INFO [main] ElementUtils:89 - Text Entered successfully
+2023-02-06 16:52:16,181  INFO [main] ElementUtils:24 - Inside doclick Method
+2023-02-06 16:52:16,181  INFO [main] ElementUtils:25 - Locator :By.className: orangehrm-login-button
+2023-02-06 16:52:17,521  INFO [main] ElementUtils:31 - click successful
+2023-02-06 16:52:18,107  INFO [main] ElementUtils:110 - Element is Present within 15
+2023-02-06 16:52:19,290  INFO [main] TestBase:52 - ---------------------------------Execution started for Testcase invalidLogin---------------------
+2023-02-06 16:52:19,290  INFO [main] DriverFactory:22 - inside init_driver, browser :Edge
+2023-02-06 16:52:39,989  INFO [main] ElementUtils:82 - Inside doclick Method
+2023-02-06 16:52:39,989  INFO [main] ElementUtils:83 - Locator :By.name: username
+2023-02-06 16:52:40,171  INFO [main] ElementUtils:89 - Text Entered successfully
+2023-02-06 16:52:40,171  INFO [main] ElementUtils:82 - Inside doclick Method
+2023-02-06 16:52:40,172  INFO [main] ElementUtils:83 - Locator :By.name: password
+2023-02-06 16:52:40,352  INFO [main] ElementUtils:89 - Text Entered successfully
+2023-02-06 16:52:40,352  INFO [main] ElementUtils:24 - Inside doclick Method
+2023-02-06 16:52:40,353  INFO [main] ElementUtils:25 - Locator :By.className: orangehrm-login-button
+2023-02-06 16:52:40,478  INFO [main] ElementUtils:31 - click successful
+2023-02-06 16:52:42,827  INFO [main] ElementUtils:110 - Element is Present within 10
+2023-02-06 16:52:43,900  INFO [main] TestBase:52 - ---------------------------------Execution started for Testcase loginTest---------------------
+2023-02-06 16:52:43,901  INFO [main] DriverFactory:22 - inside init_driver, browser :Edge
+2023-02-06 16:53:04,375  INFO [main] ElementUtils:82 - Inside doclick Method
+2023-02-06 16:53:04,376  INFO [main] ElementUtils:83 - Locator :By.name: username
+2023-02-06 16:53:04,547  INFO [main] ElementUtils:89 - Text Entered successfully
+2023-02-06 16:53:04,548  INFO [main] ElementUtils:82 - Inside doclick Method
+2023-02-06 16:53:04,548  INFO [main] ElementUtils:83 - Locator :By.name: password
+2023-02-06 16:53:04,760  INFO [main] ElementUtils:89 - Text Entered successfully
+2023-02-06 16:53:04,760  INFO [main] ElementUtils:24 - Inside doclick Method
+2023-02-06 16:53:04,760  INFO [main] ElementUtils:25 - Locator :By.className: orangehrm-login-button
+2023-02-06 16:53:04,884  INFO [main] ElementUtils:31 - click successful
+2023-02-06 16:53:06,730  INFO [main] ElementUtils:110 - Element is Present within 15
+2023-02-06 16:53:08,753  INFO [main] TestBase:52 - ---------------------------------Execution started for Testcase redirectToResetPasswordPageLinkPresent---------------------
+2023-02-06 16:53:08,754  INFO [main] DriverFactory:22 - inside init_driver, browser :Edge
+2023-02-06 16:53:40,448  INFO [main] TestBase:52 - ---------------------------------Execution started for Testcase navigateToResetPassword---------------------
+2023-02-06 16:53:40,448  INFO [main] DriverFactory:22 - inside init_driver, browser :Edge
+2023-02-06 16:58:28,172  INFO [main] TestBase:52 - ---------------------------------Execution started for Testcase verifyAdminButtonNavigatesToAdminPage---------------------
+2023-02-06 16:58:28,174  INFO [main] DriverFactory:22 - inside init_driver, browser :chrome
+2023-02-06 16:58:29,970  INFO [main] DriverFactory:27 - Chrome browser initialized
+2023-02-06 16:58:48,490  INFO [main] TestBase:52 - ---------------------------------Execution started for Testcase verifyLinks---------------------
+2023-02-06 16:58:48,491  INFO [main] DriverFactory:22 - inside init_driver, browser :chrome
+2023-02-06 16:58:49,602  INFO [main] DriverFactory:27 - Chrome browser initialized
+2023-02-06 16:59:02,431  INFO [main] ElementUtils:82 - Inside doclick Method
+2023-02-06 16:59:02,431  INFO [main] ElementUtils:83 - Locator :By.name: username
+2023-02-06 16:59:02,610  INFO [main] ElementUtils:89 - Text Entered successfully
+2023-02-06 16:59:02,610  INFO [main] ElementUtils:82 - Inside doclick Method
+2023-02-06 16:59:02,610  INFO [main] ElementUtils:83 - Locator :By.name: password
+2023-02-06 16:59:02,803  INFO [main] ElementUtils:89 - Text Entered successfully
+2023-02-06 16:59:02,804  INFO [main] ElementUtils:24 - Inside doclick Method
+2023-02-06 16:59:02,804  INFO [main] ElementUtils:25 - Locator :By.className: orangehrm-login-button
+2023-02-06 16:59:04,541  INFO [main] ElementUtils:31 - click successful
+2023-02-06 16:59:05,123  INFO [main] ElementUtils:110 - Element is Present within 15
+2023-02-06 16:59:06,263  INFO [main] TestBase:52 - ---------------------------------Execution started for Testcase invalidLogin---------------------
+2023-02-06 16:59:06,264  INFO [main] DriverFactory:22 - inside init_driver, browser :Edge
+2023-02-06 16:59:23,711  INFO [main] ElementUtils:82 - Inside doclick Method
+2023-02-06 16:59:23,712  INFO [main] ElementUtils:83 - Locator :By.name: username
+2023-02-06 16:59:23,810  INFO [main] ElementUtils:89 - Text Entered successfully
+2023-02-06 16:59:23,810  INFO [main] ElementUtils:82 - Inside doclick Method
+2023-02-06 16:59:23,810  INFO [main] ElementUtils:83 - Locator :By.name: password
+2023-02-06 16:59:23,919  INFO [main] ElementUtils:89 - Text Entered successfully
+2023-02-06 16:59:23,919  INFO [main] ElementUtils:24 - Inside doclick Method
+2023-02-06 16:59:23,920  INFO [main] ElementUtils:25 - Locator :By.className: orangehrm-login-button
+2023-02-06 16:59:23,997  INFO [main] ElementUtils:31 - click successful
+2023-02-06 16:59:25,755  INFO [main] ElementUtils:110 - Element is Present within 10
+2023-02-06 16:59:26,750  INFO [main] TestBase:52 - ---------------------------------Execution started for Testcase loginTest---------------------
+2023-02-06 16:59:26,751  INFO [main] DriverFactory:22 - inside init_driver, browser :Edge
+2023-02-06 16:59:48,192  INFO [main] ElementUtils:82 - Inside doclick Method
+2023-02-06 16:59:48,194  INFO [main] ElementUtils:83 - Locator :By.name: username
+2023-02-06 16:59:48,304  INFO [main] ElementUtils:89 - Text Entered successfully
+2023-02-06 16:59:48,305  INFO [main] ElementUtils:82 - Inside doclick Method
+2023-02-06 16:59:48,305  INFO [main] ElementUtils:83 - Locator :By.name: password
+2023-02-06 16:59:48,432  INFO [main] ElementUtils:89 - Text Entered successfully
+2023-02-06 16:59:48,433  INFO [main] ElementUtils:24 - Inside doclick Method
+2023-02-06 16:59:48,433  INFO [main] ElementUtils:25 - Locator :By.className: orangehrm-login-button
+2023-02-06 16:59:49,842  INFO [main] ElementUtils:31 - click successful
+2023-02-06 16:59:50,424  INFO [main] ElementUtils:110 - Element is Present within 15
+2023-02-06 16:59:51,520  INFO [main] TestBase:52 - ---------------------------------Execution started for Testcase redirectToResetPasswordPageLinkPresent---------------------
+2023-02-06 16:59:51,521  INFO [main] DriverFactory:22 - inside init_driver, browser :Edge
+2023-02-06 17:00:04,817  INFO [main] TestBase:52 - ---------------------------------Execution started for Testcase navigateToResetPassword---------------------
+2023-02-06 17:00:04,817  INFO [main] DriverFactory:22 - inside init_driver, browser :Edge
+2023-02-06 17:02:51,389  INFO [TestNG-tests-1] TestBase:52 - ---------------------------------Execution started for Testcase verifyAdminButtonNavigatesToAdminPage---------------------
+2023-02-06 17:02:51,389  INFO [TestNG-tests-2] TestBase:52 - ---------------------------------Execution started for Testcase invalidLogin---------------------
+2023-02-06 17:02:51,392  INFO [TestNG-tests-1] DriverFactory:22 - inside init_driver, browser :Edge
+2023-02-06 17:02:51,392  INFO [TestNG-tests-2] DriverFactory:22 - inside init_driver, browser :Edge
+2023-02-06 17:03:31,229  INFO [TestNG-tests-2] ElementUtils:82 - Inside doclick Method
+2023-02-06 17:03:31,231  INFO [TestNG-tests-2] ElementUtils:83 - Locator :By.name: username
+2023-02-06 17:03:31,365  INFO [TestNG-tests-2] ElementUtils:89 - Text Entered successfully
+2023-02-06 17:03:31,366  INFO [TestNG-tests-2] ElementUtils:82 - Inside doclick Method
+2023-02-06 17:03:31,366  INFO [TestNG-tests-2] ElementUtils:83 - Locator :By.name: password
+2023-02-06 17:03:31,527  INFO [TestNG-tests-2] ElementUtils:89 - Text Entered successfully
+2023-02-06 17:03:31,527  INFO [TestNG-tests-2] ElementUtils:24 - Inside doclick Method
+2023-02-06 17:03:31,528  INFO [TestNG-tests-2] ElementUtils:25 - Locator :By.className: orangehrm-login-button
+2023-02-06 17:03:33,286  INFO [TestNG-tests-2] ElementUtils:31 - click successful
+2023-02-06 17:03:33,891  INFO [TestNG-tests-2] ElementUtils:110 - Element is Present within 10
+2023-02-06 17:03:35,083  INFO [TestNG-tests-2] TestBase:52 - ---------------------------------Execution started for Testcase loginTest---------------------
+2023-02-06 17:03:35,083  INFO [TestNG-tests-2] DriverFactory:22 - inside init_driver, browser :Edge
+2023-02-06 17:03:39,845  INFO [TestNG-tests-1] TestBase:52 - ---------------------------------Execution started for Testcase verifyLinks---------------------
+2023-02-06 17:03:39,846  INFO [TestNG-tests-1] DriverFactory:22 - inside init_driver, browser :Edge
+2023-02-06 17:04:16,793  INFO [TestNG-tests-2] ElementUtils:82 - Inside doclick Method
+2023-02-06 17:04:16,795  INFO [TestNG-tests-2] ElementUtils:83 - Locator :By.name: username
+2023-02-06 17:04:16,981  INFO [TestNG-tests-2] ElementUtils:89 - Text Entered successfully
+2023-02-06 17:04:16,983  INFO [TestNG-tests-2] ElementUtils:82 - Inside doclick Method
+2023-02-06 17:04:16,983  INFO [TestNG-tests-2] ElementUtils:83 - Locator :By.name: password
+2023-02-06 17:04:17,178  INFO [TestNG-tests-2] ElementUtils:89 - Text Entered successfully
+2023-02-06 17:04:17,178  INFO [TestNG-tests-2] ElementUtils:24 - Inside doclick Method
+2023-02-06 17:04:17,178  INFO [TestNG-tests-2] ElementUtils:25 - Locator :By.className: orangehrm-login-button
+2023-02-06 17:04:19,108  INFO [TestNG-tests-2] ElementUtils:31 - click successful
+2023-02-06 17:04:19,687  INFO [TestNG-tests-2] ElementUtils:110 - Element is Present within 15
+2023-02-06 17:04:20,729  INFO [TestNG-tests-1] ElementUtils:82 - Inside doclick Method
+2023-02-06 17:04:20,729  INFO [TestNG-tests-1] ElementUtils:83 - Locator :By.name: username
+2023-02-06 17:04:20,921  INFO [TestNG-tests-1] ElementUtils:89 - Text Entered successfully
+2023-02-06 17:04:20,921  INFO [TestNG-tests-1] ElementUtils:82 - Inside doclick Method
+2023-02-06 17:04:20,921  INFO [TestNG-tests-1] ElementUtils:83 - Locator :By.name: password
+2023-02-06 17:04:21,093  INFO [TestNG-tests-1] ElementUtils:89 - Text Entered successfully
+2023-02-06 17:04:21,094  INFO [TestNG-tests-1] ElementUtils:24 - Inside doclick Method
+2023-02-06 17:04:21,094  INFO [TestNG-tests-1] ElementUtils:25 - Locator :By.className: orangehrm-login-button
+2023-02-06 17:04:21,625  INFO [TestNG-tests-2] TestBase:52 - ---------------------------------Execution started for Testcase redirectToResetPasswordPageLinkPresent---------------------
+2023-02-06 17:04:21,625  INFO [TestNG-tests-2] DriverFactory:22 - inside init_driver, browser :Edge
+2023-02-06 17:04:22,732  INFO [TestNG-tests-1] ElementUtils:31 - click successful
+2023-02-06 17:04:23,299  INFO [TestNG-tests-1] ElementUtils:110 - Element is Present within 15
+2023-02-06 17:04:46,223  INFO [TestNG-tests-2] TestBase:52 - ---------------------------------Execution started for Testcase navigateToResetPassword---------------------
+2023-02-06 17:04:46,224  INFO [TestNG-tests-2] DriverFactory:22 - inside init_driver, browser :Edge
+2023-02-08 13:01:28,627  INFO [TestNG-tests-1] TestBase:52 - ---------------------------------Execution started for Testcase verifyAdminButtonNavigatesToAdminPage---------------------
+2023-02-08 13:01:28,631  INFO [TestNG-tests-1] DriverFactory:22 - inside init_driver, browser :chrome
+2023-02-08 13:01:31,783  INFO [TestNG-tests-1] DriverFactory:27 - Chrome browser initialized
+2023-02-08 13:02:17,354  INFO [TestNG-tests-1] TestBase:52 - ---------------------------------Execution started for Testcase verifyLinks---------------------
+2023-02-08 13:02:17,355  INFO [TestNG-tests-1] DriverFactory:22 - inside init_driver, browser :chrome
+2023-02-08 13:02:18,514  INFO [TestNG-tests-1] DriverFactory:27 - Chrome browser initialized
+2023-02-08 13:02:51,216  INFO [TestNG-tests-1] ElementUtils:82 - Inside doclick Method
+2023-02-08 13:02:51,216  INFO [TestNG-tests-1] ElementUtils:83 - Locator :By.name: username
+2023-02-08 13:02:51,276  INFO [TestNG-tests-1] ElementUtils:89 - Text Entered successfully
+2023-02-08 13:02:51,278  INFO [TestNG-tests-1] ElementUtils:82 - Inside doclick Method
+2023-02-08 13:02:51,278  INFO [TestNG-tests-1] ElementUtils:83 - Locator :By.name: password
+2023-02-08 13:02:51,376  INFO [TestNG-tests-1] ElementUtils:89 - Text Entered successfully
+2023-02-08 13:02:51,377  INFO [TestNG-tests-1] ElementUtils:24 - Inside doclick Method
+2023-02-08 13:02:51,377  INFO [TestNG-tests-1] ElementUtils:25 - Locator :By.className: orangehrm-login-button
+2023-02-08 13:02:51,445  INFO [TestNG-tests-1] ElementUtils:31 - click successful
+2023-02-08 13:02:53,828  INFO [TestNG-tests-1] ElementUtils:110 - Element is Present within 15
+2023-02-08 13:02:54,695  INFO [TestNG-tests-1] TestBase:52 - ---------------------------------Execution started for Testcase invalidLogin---------------------
+2023-02-08 14:10:30,920  INFO [TestNG-tests-1] TestBase:52 - ---------------------------------Execution started for Testcase verifyAdminButtonNavigatesToAdminPage---------------------
+2023-02-08 14:10:30,925  INFO [TestNG-tests-1] DriverFactory:22 - inside init_driver, browser :chrome
+2023-02-08 14:10:36,188  INFO [TestNG-tests-1] DriverFactory:27 - Chrome browser initialized
+2023-02-08 14:10:51,324  INFO [TestNG-tests-1] TestBase:52 - ---------------------------------Execution started for Testcase verifyLinks---------------------
+2023-02-08 14:10:51,325  INFO [TestNG-tests-1] DriverFactory:22 - inside init_driver, browser :chrome
+2023-02-08 14:10:52,485  INFO [TestNG-tests-1] DriverFactory:27 - Chrome browser initialized
+2023-02-08 14:11:06,976  INFO [TestNG-tests-1] ElementUtils:82 - Inside doclick Method
+2023-02-08 14:11:06,976  INFO [TestNG-tests-1] ElementUtils:83 - Locator :By.name: username
+2023-02-08 14:11:07,054  INFO [TestNG-tests-1] ElementUtils:89 - Text Entered successfully
+2023-02-08 14:11:07,055  INFO [TestNG-tests-1] ElementUtils:82 - Inside doclick Method
+2023-02-08 14:11:07,055  INFO [TestNG-tests-1] ElementUtils:83 - Locator :By.name: password
+2023-02-08 14:11:07,140  INFO [TestNG-tests-1] ElementUtils:89 - Text Entered successfully
+2023-02-08 14:11:07,141  INFO [TestNG-tests-1] ElementUtils:24 - Inside doclick Method
+2023-02-08 14:11:07,141  INFO [TestNG-tests-1] ElementUtils:25 - Locator :By.className: orangehrm-login-button
+2023-02-08 14:11:07,196  INFO [TestNG-tests-1] ElementUtils:31 - click successful
+2023-02-08 14:11:08,785  INFO [TestNG-tests-1] ElementUtils:110 - Element is Present within 15
+2023-02-08 14:11:09,833  INFO [TestNG-tests-1] TestBase:52 - ---------------------------------Execution started for Testcase invalidLogin---------------------
+2023-02-08 14:12:26,843  INFO [TestNG-tests-1] TestBase:52 - ---------------------------------Execution started for Testcase verifyAdminButtonNavigatesToAdminPage---------------------
+2023-02-08 14:12:26,845  INFO [TestNG-tests-1] DriverFactory:22 - inside init_driver, browser :chrome
+2023-02-08 14:12:28,519  INFO [TestNG-tests-1] DriverFactory:27 - Chrome browser initialized
+2023-02-08 14:12:49,649  INFO [TestNG-tests-1] TestBase:52 - ---------------------------------Execution started for Testcase verifyLinks---------------------
+2023-02-08 14:12:49,649  INFO [TestNG-tests-1] DriverFactory:22 - inside init_driver, browser :chrome
+2023-02-08 14:12:50,711  INFO [TestNG-tests-1] DriverFactory:27 - Chrome browser initialized
+2023-02-08 14:12:58,140  INFO [TestNG-tests-1] ElementUtils:82 - Inside doclick Method
+2023-02-08 14:12:58,141  INFO [TestNG-tests-1] ElementUtils:83 - Locator :By.name: username
+2023-02-08 14:12:58,203  INFO [TestNG-tests-1] ElementUtils:89 - Text Entered successfully
+2023-02-08 14:12:58,204  INFO [TestNG-tests-1] ElementUtils:82 - Inside doclick Method
+2023-02-08 14:12:58,204  INFO [TestNG-tests-1] ElementUtils:83 - Locator :By.name: password
+2023-02-08 14:12:58,289  INFO [TestNG-tests-1] ElementUtils:89 - Text Entered successfully
+2023-02-08 14:12:58,289  INFO [TestNG-tests-1] ElementUtils:24 - Inside doclick Method
+2023-02-08 14:12:58,289  INFO [TestNG-tests-1] ElementUtils:25 - Locator :By.className: orangehrm-login-button
+2023-02-08 14:12:58,355  INFO [TestNG-tests-1] ElementUtils:31 - click successful
+2023-02-08 14:13:00,172  INFO [TestNG-tests-1] ElementUtils:110 - Element is Present within 15
+2023-02-08 14:13:00,972  INFO [TestNG-tests-1] TestBase:52 - ---------------------------------Execution started for Testcase invalidLogin---------------------
+2023-02-16 09:50:32,028  INFO [TestNG-tests-1] TestBase:52 - ---------------------------------Execution started for Testcase invalidLogin---------------------
+2023-02-16 09:50:32,033  INFO [TestNG-tests-1] DriverFactory:22 - inside init_driver, browser :chrome
+2023-02-16 09:50:33,813  INFO [TestNG-tests-1] DriverFactory:27 - Chrome browser initialized
+2023-02-16 09:50:39,407  INFO [TestNG-tests-1] ElementUtils:82 - Inside doclick Method
+2023-02-16 09:50:39,407  INFO [TestNG-tests-1] ElementUtils:83 - Locator :By.name: username
+2023-02-16 09:50:39,490  INFO [TestNG-tests-1] ElementUtils:89 - Text Entered successfully
+2023-02-16 09:50:39,491  INFO [TestNG-tests-1] ElementUtils:82 - Inside doclick Method
+2023-02-16 09:50:39,491  INFO [TestNG-tests-1] ElementUtils:83 - Locator :By.name: password
+2023-02-16 09:50:39,635  INFO [TestNG-tests-1] ElementUtils:89 - Text Entered successfully
+2023-02-16 09:50:39,636  INFO [TestNG-tests-1] ElementUtils:24 - Inside doclick Method
+2023-02-16 09:50:39,636  INFO [TestNG-tests-1] ElementUtils:25 - Locator :By.className: orangehrm-login-button
+2023-02-16 09:50:39,731  INFO [TestNG-tests-1] ElementUtils:31 - click successful
+2023-02-16 09:50:41,313  INFO [TestNG-tests-1] ElementUtils:110 - Element is Present within 10
+2023-02-16 09:50:42,245  INFO [TestNG-tests-1] TestBase:52 - ---------------------------------Execution started for Testcase loginTest---------------------
+2023-02-16 09:50:42,246  INFO [TestNG-tests-1] DriverFactory:22 - inside init_driver, browser :chrome
+2023-02-16 09:50:43,370  INFO [TestNG-tests-1] DriverFactory:27 - Chrome browser initialized
+2023-02-16 09:50:48,400  INFO [TestNG-tests-1] ElementUtils:82 - Inside doclick Method
+2023-02-16 09:50:48,401  INFO [TestNG-tests-1] ElementUtils:83 - Locator :By.name: username
+2023-02-16 09:50:48,471  INFO [TestNG-tests-1] ElementUtils:89 - Text Entered successfully
+2023-02-16 09:50:48,471  INFO [TestNG-tests-1] ElementUtils:82 - Inside doclick Method
+2023-02-16 09:50:48,472  INFO [TestNG-tests-1] ElementUtils:83 - Locator :By.name: password
+2023-02-16 09:50:48,562  INFO [TestNG-tests-1] ElementUtils:89 - Text Entered successfully
+2023-02-16 09:50:48,563  INFO [TestNG-tests-1] ElementUtils:24 - Inside doclick Method
+2023-02-16 09:50:48,563  INFO [TestNG-tests-1] ElementUtils:25 - Locator :By.className: orangehrm-login-button
+2023-02-16 09:50:48,639  INFO [TestNG-tests-1] ElementUtils:31 - click successful
+2023-02-16 09:50:50,534  INFO [TestNG-tests-1] ElementUtils:110 - Element is Present within 15
+2023-02-16 09:50:51,635  INFO [TestNG-tests-1] TestBase:52 - ---------------------------------Execution started for Testcase redirectToResetPasswordPageLinkPresent---------------------
+2023-02-16 09:50:51,635  INFO [TestNG-tests-1] DriverFactory:22 - inside init_driver, browser :chrome
+2023-02-16 09:50:52,868  INFO [TestNG-tests-1] DriverFactory:27 - Chrome browser initialized
+2023-02-16 09:50:57,442  INFO [TestNG-tests-1] TestBase:52 - ---------------------------------Execution started for Testcase verifyAdminButtonNavigatesToAdminPage---------------------
+2023-02-16 09:50:57,465  INFO [TestNG-tests-1] TestBase:52 - ---------------------------------Execution started for Testcase navigateToResetPassword---------------------
+2023-02-16 09:50:57,465  INFO [TestNG-tests-1] DriverFactory:22 - inside init_driver, browser :chrome
+2023-02-16 09:50:58,545  INFO [TestNG-tests-1] DriverFactory:27 - Chrome browser initialized
+2023-02-16 09:52:57,735  INFO [TestNG-tests-1] TestBase:52 - ---------------------------------Execution started for Testcase invalidLogin---------------------
+2023-02-16 09:52:57,738  INFO [TestNG-tests-1] DriverFactory:22 - inside init_driver, browser :chrome
+2023-02-16 09:52:59,567  INFO [TestNG-tests-1] DriverFactory:27 - Chrome browser initialized
+2023-02-16 09:53:07,094  INFO [TestNG-tests-1] ElementUtils:82 - Inside doclick Method
+2023-02-16 09:53:07,095  INFO [TestNG-tests-1] ElementUtils:83 - Locator :By.name: username
+2023-02-16 09:53:07,199  INFO [TestNG-tests-1] ElementUtils:89 - Text Entered successfully
+2023-02-16 09:53:07,199  INFO [TestNG-tests-1] ElementUtils:82 - Inside doclick Method
+2023-02-16 09:53:07,200  INFO [TestNG-tests-1] ElementUtils:83 - Locator :By.name: password
+2023-02-16 09:53:07,307  INFO [TestNG-tests-1] ElementUtils:89 - Text Entered successfully
+2023-02-16 09:53:07,308  INFO [TestNG-tests-1] ElementUtils:24 - Inside doclick Method
+2023-02-16 09:53:07,308  INFO [TestNG-tests-1] ElementUtils:25 - Locator :By.className: orangehrm-login-button
+2023-02-16 09:53:08,760  INFO [TestNG-tests-1] ElementUtils:31 - click successful
+2023-02-16 09:53:09,340  INFO [TestNG-tests-1] ElementUtils:110 - Element is Present within 10
+2023-02-16 09:53:10,084  INFO [TestNG-tests-1] TestBase:52 - ---------------------------------Execution started for Testcase loginTest---------------------
+2023-02-16 09:53:10,084  INFO [TestNG-tests-1] DriverFactory:22 - inside init_driver, browser :chrome
+2023-02-16 09:53:11,289  INFO [TestNG-tests-1] DriverFactory:27 - Chrome browser initialized
+2023-02-16 09:53:15,302  INFO [TestNG-tests-1] ElementUtils:82 - Inside doclick Method
+2023-02-16 09:53:15,302  INFO [TestNG-tests-1] ElementUtils:83 - Locator :By.name: username
+2023-02-16 09:53:15,368  INFO [TestNG-tests-1] ElementUtils:89 - Text Entered successfully
+2023-02-16 09:53:15,369  INFO [TestNG-tests-1] ElementUtils:82 - Inside doclick Method
+2023-02-16 09:53:15,369  INFO [TestNG-tests-1] ElementUtils:83 - Locator :By.name: password
+2023-02-16 09:53:15,447  INFO [TestNG-tests-1] ElementUtils:89 - Text Entered successfully
+2023-02-16 09:53:15,448  INFO [TestNG-tests-1] ElementUtils:24 - Inside doclick Method
+2023-02-16 09:53:15,448  INFO [TestNG-tests-1] ElementUtils:25 - Locator :By.className: orangehrm-login-button
+2023-02-16 09:53:15,513  INFO [TestNG-tests-1] ElementUtils:31 - click successful
+2023-02-16 09:53:17,309  INFO [TestNG-tests-1] ElementUtils:110 - Element is Present within 15
+2023-02-16 09:53:17,993  INFO [TestNG-tests-1] TestBase:52 - ---------------------------------Execution started for Testcase redirectToResetPasswordPageLinkPresent---------------------
+2023-02-16 09:53:17,994  INFO [TestNG-tests-1] DriverFactory:22 - inside init_driver, browser :chrome
+2023-02-16 09:53:19,108  INFO [TestNG-tests-1] DriverFactory:27 - Chrome browser initialized
+2023-02-16 09:53:24,487  INFO [TestNG-tests-1] TestBase:52 - ---------------------------------Execution started for Testcase verifyAdminButtonNavigatesToAdminPage---------------------
+2023-02-16 09:53:24,508  INFO [TestNG-tests-1] TestBase:52 - ---------------------------------Execution started for Testcase navigateToResetPassword---------------------
+2023-02-16 09:53:24,509  INFO [TestNG-tests-1] DriverFactory:22 - inside init_driver, browser :chrome
+2023-02-16 09:53:25,608  INFO [TestNG-tests-1] DriverFactory:27 - Chrome browser initialized
