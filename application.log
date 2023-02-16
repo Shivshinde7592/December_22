@@ -275,3 +275,61 @@
 2023-02-16 09:53:24,508  INFO [TestNG-tests-1] TestBase:52 - ---------------------------------Execution started for Testcase navigateToResetPassword---------------------
 2023-02-16 09:53:24,509  INFO [TestNG-tests-1] DriverFactory:22 - inside init_driver, browser :chrome
 2023-02-16 09:53:25,608  INFO [TestNG-tests-1] DriverFactory:27 - Chrome browser initialized
+2023-02-16 10:08:19,556  INFO [TestNG-tests-1] TestBase:52 - ---------------------------------Execution started for Testcase invalidLogin---------------------
+2023-02-16 10:08:19,560  INFO [TestNG-tests-1] DriverFactory:22 - inside init_driver, browser :Edge
+2023-02-16 10:08:46,711  INFO [TestNG-tests-1] ElementUtils:82 - Inside doclick Method
+2023-02-16 10:08:46,711  INFO [TestNG-tests-1] ElementUtils:83 - Locator :By.name: username
+2023-02-16 10:08:46,913  INFO [TestNG-tests-1] ElementUtils:89 - Text Entered successfully
+2023-02-16 10:08:46,915  INFO [TestNG-tests-1] ElementUtils:82 - Inside doclick Method
+2023-02-16 10:08:46,915  INFO [TestNG-tests-1] ElementUtils:83 - Locator :By.name: password
+2023-02-16 10:08:47,047  INFO [TestNG-tests-1] ElementUtils:89 - Text Entered successfully
+2023-02-16 10:08:47,047  INFO [TestNG-tests-1] ElementUtils:24 - Inside doclick Method
+2023-02-16 10:08:47,048  INFO [TestNG-tests-1] ElementUtils:25 - Locator :By.className: orangehrm-login-button
+2023-02-16 10:08:48,456  INFO [TestNG-tests-1] ElementUtils:31 - click successful
+2023-02-16 10:08:49,030  INFO [TestNG-tests-1] ElementUtils:110 - Element is Present within 10
+2023-02-16 10:08:49,814  INFO [TestNG-tests-1] TestBase:52 - ---------------------------------Execution started for Testcase loginTest---------------------
+2023-02-16 10:08:49,814  INFO [TestNG-tests-1] DriverFactory:22 - inside init_driver, browser :Edge
+2023-02-16 10:08:58,233  INFO [TestNG-tests-1] ElementUtils:82 - Inside doclick Method
+2023-02-16 10:08:58,234  INFO [TestNG-tests-1] ElementUtils:83 - Locator :By.name: username
+2023-02-16 10:08:58,313  INFO [TestNG-tests-1] ElementUtils:89 - Text Entered successfully
+2023-02-16 10:08:58,313  INFO [TestNG-tests-1] ElementUtils:82 - Inside doclick Method
+2023-02-16 10:08:58,314  INFO [TestNG-tests-1] ElementUtils:83 - Locator :By.name: password
+2023-02-16 10:08:58,444  INFO [TestNG-tests-1] ElementUtils:89 - Text Entered successfully
+2023-02-16 10:08:58,444  INFO [TestNG-tests-1] ElementUtils:24 - Inside doclick Method
+2023-02-16 10:08:58,444  INFO [TestNG-tests-1] ElementUtils:25 - Locator :By.className: orangehrm-login-button
+2023-02-16 10:08:59,734  INFO [TestNG-tests-1] ElementUtils:31 - click successful
+2023-02-16 10:09:00,308  INFO [TestNG-tests-1] ElementUtils:110 - Element is Present within 15
+2023-02-16 10:09:01,117  INFO [TestNG-tests-1] TestBase:52 - ---------------------------------Execution started for Testcase redirectToResetPasswordPageLinkPresent---------------------
+2023-02-16 10:09:01,117  INFO [TestNG-tests-1] DriverFactory:22 - inside init_driver, browser :Edge
+2023-02-16 10:09:10,181  INFO [TestNG-tests-1] TestBase:52 - ---------------------------------Execution started for Testcase verifyAdminButtonNavigatesToAdminPage---------------------
+2023-02-16 10:09:10,205  INFO [TestNG-tests-1] TestBase:52 - ---------------------------------Execution started for Testcase navigateToResetPassword---------------------
+2023-02-16 10:09:10,205  INFO [TestNG-tests-1] DriverFactory:22 - inside init_driver, browser :Edge
+2023-02-16 10:14:44,513  INFO [TestNG-tests-1] TestBase:52 - ---------------------------------Execution started for Testcase invalidLogin---------------------
+2023-02-16 10:14:44,516  INFO [TestNG-tests-1] DriverFactory:22 - inside init_driver, browser :Edge
+2023-02-16 10:14:55,777  INFO [TestNG-tests-1] ElementUtils:82 - Inside doclick Method
+2023-02-16 10:14:55,778  INFO [TestNG-tests-1] ElementUtils:83 - Locator :By.name: username
+2023-02-16 10:14:55,883  INFO [TestNG-tests-1] ElementUtils:89 - Text Entered successfully
+2023-02-16 10:14:55,885  INFO [TestNG-tests-1] ElementUtils:82 - Inside doclick Method
+2023-02-16 10:14:55,885  INFO [TestNG-tests-1] ElementUtils:83 - Locator :By.name: password
+2023-02-16 10:14:56,038  INFO [TestNG-tests-1] ElementUtils:89 - Text Entered successfully
+2023-02-16 10:14:56,039  INFO [TestNG-tests-1] ElementUtils:24 - Inside doclick Method
+2023-02-16 10:14:56,040  INFO [TestNG-tests-1] ElementUtils:25 - Locator :By.className: orangehrm-login-button
+2023-02-16 10:14:57,288  INFO [TestNG-tests-1] ElementUtils:31 - click successful
+2023-02-16 10:14:57,858  INFO [TestNG-tests-1] ElementUtils:110 - Element is Present within 10
+2023-02-16 10:14:58,652  INFO [TestNG-tests-1] TestBase:52 - ---------------------------------Execution started for Testcase loginTest---------------------
+2023-02-16 10:14:58,653  INFO [TestNG-tests-1] DriverFactory:22 - inside init_driver, browser :Edge
+2023-02-16 10:15:07,555  INFO [TestNG-tests-1] ElementUtils:82 - Inside doclick Method
+2023-02-16 10:15:07,556  INFO [TestNG-tests-1] ElementUtils:83 - Locator :By.name: username
+2023-02-16 10:15:07,662  INFO [TestNG-tests-1] ElementUtils:89 - Text Entered successfully
+2023-02-16 10:15:07,665  INFO [TestNG-tests-1] ElementUtils:82 - Inside doclick Method
+2023-02-16 10:15:07,665  INFO [TestNG-tests-1] ElementUtils:83 - Locator :By.name: password
+2023-02-16 10:15:07,822  INFO [TestNG-tests-1] ElementUtils:89 - Text Entered successfully
+2023-02-16 10:15:07,823  INFO [TestNG-tests-1] ElementUtils:24 - Inside doclick Method
+2023-02-16 10:15:07,823  INFO [TestNG-tests-1] ElementUtils:25 - Locator :By.className: orangehrm-login-button
+2023-02-16 10:15:10,274  INFO [TestNG-tests-1] ElementUtils:31 - click successful
+2023-02-16 10:15:11,382  INFO [TestNG-tests-1] ElementUtils:110 - Element is Present within 15
+2023-02-16 10:15:12,229  INFO [TestNG-tests-1] TestBase:52 - ---------------------------------Execution started for Testcase redirectToResetPasswordPageLinkPresent---------------------
+2023-02-16 10:15:12,230  INFO [TestNG-tests-1] DriverFactory:22 - inside init_driver, browser :Edge
+2023-02-16 10:15:22,135  INFO [TestNG-tests-1] TestBase:52 - ---------------------------------Execution started for Testcase verifyAdminButtonNavigatesToAdminPage---------------------
+2023-02-16 10:15:22,156  INFO [TestNG-tests-1] TestBase:52 - ---------------------------------Execution started for Testcase navigateToResetPassword---------------------
+2023-02-16 10:15:22,156  INFO [TestNG-tests-1] DriverFactory:22 - inside init_driver, browser :Edge

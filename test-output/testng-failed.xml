@@ -6,7 +6,7 @@
     <listener class-name="listener.ExtendReportListener"/>
   </listeners>
   <test thread-count="2" name="chromeTest(failed)" parallel="tests">
-    <parameter name="env" value="SIT"/>
+    <parameter name="env" value="UAT"/>
     <classes>
       <class name="tests.HomeTest">
         <methods>

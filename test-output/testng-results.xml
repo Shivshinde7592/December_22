@@ -2,23 +2,23 @@
 <testng-results skipped="2" failed="0" ignored="1" total="7" passed="4">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="40031" started-at="2023-02-16T09:52:57 IST" finished-at="2023-02-16T09:53:37 IST">
+  <suite name="Suite" duration-ms="49597" started-at="2023-02-16T10:14:44 IST" finished-at="2023-02-16T10:15:34 IST">
     <groups>
     </groups>
-    <test name="chromeTest" duration-ms="40031" started-at="2023-02-16T09:52:57 IST" finished-at="2023-02-16T09:53:37 IST">
+    <test name="chromeTest" duration-ms="49597" started-at="2023-02-16T10:14:44 IST" finished-at="2023-02-16T10:15:34 IST">
       <class name="tests.LoginTest">
-        <test-method status="PASS" signature="beforeTest(java.lang.String)[pri:0, instance:tests.LoginTest@4bb4de6a]" name="beforeTest" is-config="true" duration-ms="8" started-at="2023-02-16T09:52:57 IST" finished-at="2023-02-16T09:52:57 IST">
+        <test-method status="PASS" signature="beforeTest(java.lang.String)[pri:0, instance:tests.LoginTest@4bb4de6a]" name="beforeTest" is-config="true" duration-ms="16" started-at="2023-02-16T10:14:44 IST" finished-at="2023-02-16T10:14:44 IST">
           <params>
             <param index="0">
               <value>
-                <![CDATA[SIT]]>
+                <![CDATA[UAT]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method status="PASS" signature="beforeMethod(org.testng.ITestResult)[pri:0, instance:tests.LoginTest@4bb4de6a]" name="beforeMethod" is-config="true" duration-ms="9348" started-at="2023-02-16T09:52:57 IST" finished-at="2023-02-16T09:53:07 IST">
+        <test-method status="PASS" signature="beforeMethod(org.testng.ITestResult)[pri:0, instance:tests.LoginTest@4bb4de6a]" name="beforeMethod" is-config="true" duration-ms="11247" started-at="2023-02-16T10:14:44 IST" finished-at="2023-02-16T10:14:55 IST">
           <params>
             <param index="0">
               <value>
@@ -29,11 +29,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="invalidLogin()[pri:0, instance:tests.LoginTest@4bb4de6a]" name="invalidLogin" duration-ms="2300" started-at="2023-02-16T09:53:07 IST" finished-at="2023-02-16T09:53:09 IST">
+        <test-method status="PASS" signature="invalidLogin()[pri:0, instance:tests.LoginTest@4bb4de6a]" name="invalidLogin" duration-ms="2147" started-at="2023-02-16T10:14:55 IST" finished-at="2023-02-16T10:14:57 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- invalidLogin -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:tests.LoginTest@4bb4de6a]" name="afterMethod" is-config="true" duration-ms="690" started-at="2023-02-16T09:53:09 IST" finished-at="2023-02-16T09:53:10 IST">
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:tests.LoginTest@4bb4de6a]" name="afterMethod" is-config="true" duration-ms="736" started-at="2023-02-16T10:14:57 IST" finished-at="2023-02-16T10:14:58 IST">
           <params>
             <param index="0">
               <value>
@@ -44,7 +44,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="beforeMethod(org.testng.ITestResult)[pri:0, instance:tests.LoginTest@4bb4de6a]" name="beforeMethod" is-config="true" duration-ms="5217" started-at="2023-02-16T09:53:10 IST" finished-at="2023-02-16T09:53:15 IST">
+        <test-method status="PASS" signature="beforeMethod(org.testng.ITestResult)[pri:0, instance:tests.LoginTest@4bb4de6a]" name="beforeMethod" is-config="true" duration-ms="8902" started-at="2023-02-16T10:14:58 IST" finished-at="2023-02-16T10:15:07 IST">
           <params>
             <param index="0">
               <value>
@@ -55,11 +55,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="loginTest()[pri:0, instance:tests.LoginTest@4bb4de6a]" name="loginTest" duration-ms="2037" started-at="2023-02-16T09:53:15 IST" finished-at="2023-02-16T09:53:17 IST">
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:tests.LoginTest@4bb4de6a]" name="loginTest" duration-ms="3872" started-at="2023-02-16T10:15:07 IST" finished-at="2023-02-16T10:15:11 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:tests.LoginTest@4bb4de6a]" name="afterMethod" is-config="true" duration-ms="652" started-at="2023-02-16T09:53:17 IST" finished-at="2023-02-16T09:53:17 IST">
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:tests.LoginTest@4bb4de6a]" name="afterMethod" is-config="true" duration-ms="796" started-at="2023-02-16T10:15:11 IST" finished-at="2023-02-16T10:15:12 IST">
           <params>
             <param index="0">
               <value>
@@ -70,7 +70,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="beforeMethod(org.testng.ITestResult)[pri:0, instance:tests.LoginTest@4bb4de6a]" name="beforeMethod" is-config="true" duration-ms="5807" started-at="2023-02-16T09:53:17 IST" finished-at="2023-02-16T09:53:23 IST">
+        <test-method status="PASS" signature="beforeMethod(org.testng.ITestResult)[pri:0, instance:tests.LoginTest@4bb4de6a]" name="beforeMethod" is-config="true" duration-ms="9066" started-at="2023-02-16T10:15:12 IST" finished-at="2023-02-16T10:15:21 IST">
           <params>
             <param index="0">
               <value>
@@ -81,11 +81,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="redirectToResetPasswordPageLinkPresent()[pri:0, instance:tests.LoginTest@4bb4de6a]" name="redirectToResetPasswordPageLinkPresent" duration-ms="17" started-at="2023-02-16T09:53:23 IST" finished-at="2023-02-16T09:53:23 IST">
+        <test-method status="PASS" signature="redirectToResetPasswordPageLinkPresent()[pri:0, instance:tests.LoginTest@4bb4de6a]" name="redirectToResetPasswordPageLinkPresent" duration-ms="31" started-at="2023-02-16T10:15:21 IST" finished-at="2023-02-16T10:15:21 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- redirectToResetPasswordPageLinkPresent -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:tests.LoginTest@4bb4de6a]" name="afterMethod" is-config="true" duration-ms="668" started-at="2023-02-16T09:53:23 IST" finished-at="2023-02-16T09:53:24 IST">
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:tests.LoginTest@4bb4de6a]" name="afterMethod" is-config="true" duration-ms="806" started-at="2023-02-16T10:15:21 IST" finished-at="2023-02-16T10:15:22 IST">
           <params>
             <param index="0">
               <value>
@@ -96,7 +96,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="beforeMethod(org.testng.ITestResult)[pri:0, instance:tests.LoginTest@4bb4de6a]" name="beforeMethod" is-config="true" duration-ms="11384" started-at="2023-02-16T09:53:24 IST" finished-at="2023-02-16T09:53:35 IST">
+        <test-method status="PASS" signature="beforeMethod(org.testng.ITestResult)[pri:0, instance:tests.LoginTest@4bb4de6a]" name="beforeMethod" is-config="true" duration-ms="7981" started-at="2023-02-16T10:15:22 IST" finished-at="2023-02-16T10:15:30 IST">
           <params>
             <param index="0">
               <value>
@@ -107,11 +107,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="navigateToResetPassword()[pri:0, instance:tests.LoginTest@4bb4de6a]" name="navigateToResetPassword" duration-ms="1126" started-at="2023-02-16T09:53:35 IST" depends-on-methods="tests.LoginTest.redirectToResetPasswordPageLinkPresent" finished-at="2023-02-16T09:53:37 IST">
+        <test-method status="PASS" signature="navigateToResetPassword()[pri:0, instance:tests.LoginTest@4bb4de6a]" name="navigateToResetPassword" duration-ms="3122" started-at="2023-02-16T10:15:30 IST" depends-on-methods="tests.LoginTest.redirectToResetPasswordPageLinkPresent" finished-at="2023-02-16T10:15:33 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- navigateToResetPassword -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:tests.LoginTest@4bb4de6a]" name="afterMethod" is-config="true" duration-ms="717" started-at="2023-02-16T09:53:37 IST" finished-at="2023-02-16T09:53:37 IST">
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:tests.LoginTest@4bb4de6a]" name="afterMethod" is-config="true" duration-ms="813" started-at="2023-02-16T10:15:33 IST" finished-at="2023-02-16T10:15:34 IST">
           <params>
             <param index="0">
               <value>
@@ -124,7 +124,7 @@
         </test-method> <!-- afterMethod -->
       </class> <!-- tests.LoginTest -->
       <class name="tests.HomeTest">
-        <test-method status="FAIL" signature="beforeMethod(org.testng.ITestResult)[pri:0, instance:tests.HomeTest@8b87145]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2023-02-16T09:53:24 IST" finished-at="2023-02-16T09:53:24 IST">
+        <test-method status="FAIL" signature="beforeMethod(org.testng.ITestResult)[pri:0, instance:tests.HomeTest@8b87145]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2023-02-16T10:15:22 IST" finished-at="2023-02-16T10:15:22 IST">
           <params>
             <param index="0">
               <value>
@@ -169,7 +169,7 @@ at java.lang.Thread.run(Unknown Source)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="SKIP" signature="verifyAdminButtonNavigatesToAdminPage()[pri:0, instance:tests.HomeTest@8b87145]" name="verifyAdminButtonNavigatesToAdminPage" duration-ms="0" started-at="2023-02-16T09:53:24 IST" finished-at="2023-02-16T09:53:24 IST">
+        <test-method status="SKIP" signature="verifyAdminButtonNavigatesToAdminPage()[pri:0, instance:tests.HomeTest@8b87145]" name="verifyAdminButtonNavigatesToAdminPage" duration-ms="0" started-at="2023-02-16T10:15:22 IST" finished-at="2023-02-16T10:15:22 IST">
           <exception class="java.lang.NullPointerException">
             <full-stacktrace>
               <![CDATA[java.lang.NullPointerException
@@ -207,15 +207,15 @@ at java.lang.Thread.run(Unknown Source)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyAdminButtonNavigatesToAdminPage -->
-        <test-method status="SKIP" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:tests.HomeTest@8b87145]" name="afterMethod" is-config="true" duration-ms="-1676521404502" started-at="2023-02-16T09:53:24 IST" finished-at="1970-01-01T05:30:00 IST">
+        <test-method status="SKIP" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:tests.HomeTest@8b87145]" name="afterMethod" is-config="true" duration-ms="-1676522722147" started-at="2023-02-16T10:15:22 IST" finished-at="1970-01-01T05:30:00 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="SKIP" signature="beforeMethod(org.testng.ITestResult)[pri:0, instance:tests.HomeTest@8b87145]" name="beforeMethod" is-config="true" duration-ms="-1676521404503" started-at="2023-02-16T09:53:24 IST" finished-at="1970-01-01T05:30:00 IST">
+        <test-method status="SKIP" signature="beforeMethod(org.testng.ITestResult)[pri:0, instance:tests.HomeTest@8b87145]" name="beforeMethod" is-config="true" duration-ms="-1676522722148" started-at="2023-02-16T10:15:22 IST" finished-at="1970-01-01T05:30:00 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="SKIP" signature="verifyLinks()[pri:0, instance:tests.HomeTest@8b87145]" name="verifyLinks" duration-ms="0" started-at="2023-02-16T09:53:24 IST" finished-at="2023-02-16T09:53:24 IST">
+        <test-method status="SKIP" signature="verifyLinks()[pri:0, instance:tests.HomeTest@8b87145]" name="verifyLinks" duration-ms="0" started-at="2023-02-16T10:15:22 IST" finished-at="2023-02-16T10:15:22 IST">
           <exception class="java.lang.NullPointerException">
             <full-stacktrace>
               <![CDATA[java.lang.NullPointerException
@@ -253,7 +253,7 @@ at java.lang.Thread.run(Unknown Source)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyLinks -->
-        <test-method status="SKIP" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:tests.HomeTest@8b87145]" name="afterMethod" is-config="true" duration-ms="-1676521404505" started-at="2023-02-16T09:53:24 IST" finished-at="1970-01-01T05:30:00 IST">
+        <test-method status="SKIP" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:tests.HomeTest@8b87145]" name="afterMethod" is-config="true" duration-ms="-1676522722151" started-at="2023-02-16T10:15:22 IST" finished-at="1970-01-01T05:30:00 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->

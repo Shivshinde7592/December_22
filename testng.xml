@@ -7,10 +7,12 @@
  </listeners>
  
   <test  name="chromeTest">
-  <parameter name="env" value="SIT"></parameter>
+  <parameter name="env" value="UAT"></parameter>
     <classes>
      <class name="tests.LoginTest"></class>
     <class name="tests.HomeTest"></class>
+     
+        
       
     </classes> 
       
